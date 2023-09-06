@@ -1,7 +1,7 @@
 site_name: 'QE Broker'
 
 nav:
-  - Get Started: index.md
+  - Get Started: url:https://github.com/SatelliteQE/broker/blob/master/README.md
 
 plugins:
   - techdocs-core
