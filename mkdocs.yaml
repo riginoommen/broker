@@ -1,0 +1,7 @@
+site_name: 'QE Broker'
+
+nav:
+  - Get Started: README.md
+
+plugins:
+  - techdocs-core
